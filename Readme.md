@@ -19,7 +19,7 @@ To run the project, ensure you have Python 3.8+ installed and follow these steps
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/arodriguezp/web-content-summarizer.git
+   git clone https://github.com/arodriguezp2003/web-content-summarizer.git
    cd web-content-summarizer
    ```
 
@@ -50,7 +50,7 @@ python main.py
 
 Example output for [https://alerodriguez.dev](https://alerodriguez.dev):
 
-> "Alejandro Rodriguez’s personal blog focuses on tech insights, particularly around mobile development, backend architecture, and LLM engineering."
+> "Alejandro Rodriguez’s personal blog focuses on tech insights......."
 
 ## Part of a Larger Journey
 
