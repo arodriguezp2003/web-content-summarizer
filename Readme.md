@@ -10,7 +10,7 @@ This project demonstrates how to create a web content summarizer using OpenAI's 
 
 - Extracts clean and relevant text from a webpage.
 - Crafts effective prompts to guide the AI.
-- Summarizes webpage content using OpenAI's GPT models.
+- Summarizes webpage content using OpenAI's And Gemini LLM.
 
 ## Installation
 
@@ -33,6 +33,7 @@ To run the project, ensure you have Python 3.8+ installed and follow these steps
 
    ```env
    OPENAI_API_KEY=your_openai_api_key
+   GEMINI_API_KEY=your_openai_api_key
    ```
 
 4. Run the program:
